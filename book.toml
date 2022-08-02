@@ -18,6 +18,6 @@ command = "mdbook-mermaid"
 [output.html]
 additional-css = ["style.css"]
 additional-js = ["js/custom.js", "js/bigPicture.js", "js/mermaid.min.js", "js/mermaid-init.js"]
-git-repository-url = "https://github.com/chai2010/go-ast-book"
-edit-url-template = "https://github.com/chai2010/go-ast-book/edit/master/{path}"
+git-repository-url = "https://github.com/awesome-kusion/kusion-cookbook"
+edit-url-template = "https://github.com/awesome-kusion/kusion-cookbook/edit/master/{path}"
 git-repository-icon = "fa-github"
