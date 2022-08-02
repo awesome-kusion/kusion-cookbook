@@ -1,0 +1,23 @@
+# https://giscus.app
+# https://github.com/badboy/mdbook-mermaid
+
+[book]
+title = "Kusion Cookbook 中文版"
+authors = ["Kusion云原生爱好者"]
+description = "通过配置编程化方式实践云原生IaC"
+language = "zh"
+multilingual = false
+src = "."
+
+[build]
+build-dir = "docs"
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+
+[output.html]
+additional-css = ["style.css"]
+additional-js = ["js/custom.js", "js/bigPicture.js", "js/mermaid.min.js", "js/mermaid-init.js"]
+git-repository-url = "https://github.com/chai2010/go-ast-book"
+edit-url-template = "https://github.com/chai2010/go-ast-book/edit/master/{path}"
+git-repository-icon = "fa-github"
