@@ -10,7 +10,7 @@ multilingual = false
 src = "."
 
 [build]
-build-dir = "docs"
+build-dir = "book"
 
 [preprocessor.mermaid]
 command = "mdbook-mermaid"
