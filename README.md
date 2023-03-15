@@ -1,4 +1,4 @@
-# KusionStack Cookbook 中文版
+# Kusion Cookbook 中文版
 
 这是 KusionStack 相关资料的收集仓库，同时也希望和国内云原生IaC爱好者交流，欢迎贡献相关知识。
 
