@@ -12,12 +12,9 @@ src = "."
 [build]
 build-dir = "book"
 
-[preprocessor.mermaid]
-command = "mdbook-mermaid"
-
 [output.html]
 additional-css = ["style.css"]
-additional-js = ["js/custom.js", "js/bigPicture.js", "js/mermaid.min.js", "js/mermaid-init.js"]
+additional-js = ["js/custom.js", "js/bigPicture.js"]
 git-repository-url = "https://github.com/awesome-kusion/kusion-cookbook"
 edit-url-template = "https://github.com/awesome-kusion/kusion-cookbook/edit/master/{path}"
 git-repository-icon = "fa-github"
