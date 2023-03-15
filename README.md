@@ -4,7 +4,7 @@
 
 ![](cover.jpg)
 
-- 在线阅读: [https://awesome-kusion.github.io/kusion-cookbook](https://awesome-kusion.github.io/kusion-cookbook)
+- 在线阅读: [https://cookbook.kusion.cn](https://cookbook.kusion.cn)
 - KusionStack 主仓库: [https://github.com/KusionStack/kusion](https://github.com/KusionStack/kusion)
 - 《KusionStack 实战》: [https://github.com/KusionStack/kusion-in-action-book](https://github.com/KusionStack/kusion-in-action-book)
 
