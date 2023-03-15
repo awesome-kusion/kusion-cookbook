@@ -5,6 +5,7 @@
 ![](cover.jpg)
 
 - 在线阅读: [https://cookbook.kusion.cn](https://cookbook.kusion.cn)
+- 在线论坛: [https://kusion.osanswer.net](https://kusion.osanswer.net)
 - KusionStack 主仓库: [https://github.com/KusionStack/kusion](https://github.com/KusionStack/kusion)
 - 《KusionStack 实战》: [https://github.com/KusionStack/kusion-in-action-book](https://github.com/KusionStack/kusion-in-action-book)
 
