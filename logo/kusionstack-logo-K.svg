@@ -1,0 +1,52 @@
+<!--
+// KusionStack
+// KusionStack is an open source project and community working to build a Unified
+// Programmable Configuration Tech Stack.
+// Github: https://github.com/KusionStack
+// website: https://kusionstack.io/
+-->
+
+<!-- Generator: Adobe Illustrator 26.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="eeee" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 400 400" style="enable-background:new 0 0 400 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_00000142880990157035290150000010759062182378856630_);}
+	.st2{fill:#1650FF;}
+	.st3{fill:url(#SVGID_00000099643061792124840780000000790525791195704709_);}
+	.st4{fill:url(#SVGID_00000000209597718183835010000013834162724869354406_);}
+	.st5{fill:url(#SVGID_00000078724657880405463650000012733631504300401042_);}
+</style>
+
+<g>
+	<g>
+		<linearGradient id="SVGID_00000015344840433056274190000003567329286505512329_" gradientUnits="userSpaceOnUse" x1="36.1226" y1="231.1557" x2="68.2257" y2="208.2402" gradientTransform="matrix(1 0 0 -1 0 400)">
+			<stop  offset="0.1024" style="stop-color:#1650FF"/>
+			<stop  offset="0.3844" style="stop-color:#1662FF"/>
+			<stop  offset="0.726" style="stop-color:#1672FF"/>
+			<stop  offset="0.9994" style="stop-color:#1677FF"/>
+		</linearGradient>
+		<path style="fill:url(#SVGID_00000015344840433056274190000003567329286505512329_);" d="M67.1,194.5H57c-0.3,0-0.6-0.3-0.6-0.6
+			c-0.3-10-8.6-18-18.6-18h-9.2v-11.4h9.2c16.4,0,29.7,13.1,30.1,29.4C67.8,194.2,67.5,194.5,67.1,194.5z"/>
+		
+		<linearGradient id="SVGID_00000181785204529091892510000007093270170899715466_" gradientUnits="userSpaceOnUse" x1="-137.453" y1="232.85" x2="73.3793" y2="232.85" gradientTransform="matrix(1 0 0 -1 0 400)">
+			<stop  offset="0" style="stop-color:#1650FF"/>
+			<stop  offset="9.229179e-02" style="stop-color:#1657FF"/>
+			<stop  offset="0.2284" style="stop-color:#166BFF"/>
+			<stop  offset="0.293" style="stop-color:#1677FF"/>
+			<stop  offset="0.3726" style="stop-color:#167EFF"/>
+			<stop  offset="0.4902" style="stop-color:#1592FF"/>
+			<stop  offset="0.6313" style="stop-color:#15B3FF"/>
+			<stop  offset="0.7768" style="stop-color:#14DCFF"/>
+			<stop  offset="0.8717" style="stop-color:#15E9EB"/>
+			<stop  offset="1" style="stop-color:#16FFC9"/>
+		</linearGradient>
+		<path style="fill:url(#SVGID_00000181785204529091892510000007093270170899715466_);" d="M57.4,140.5
+			c-11.4,10.6-23.6,19.4-36,26.1c-5.4,3-8.8,8.6-8.8,14.8v12.4c0,0.4,0.3,0.6,0.6,0.6h10.1c0.4,0,0.6-0.3,0.6-0.6v-12.3
+			c0-1.7,0.9-3.3,2.4-4.1c0.9-0.5,1.8-1,2.7-1.6c5.3-3.1,10.6-6.6,15.9-10.5c12.1-8.9,23.2-19.7,27.3-24.3c0.4-0.4,0.1-1.1-0.5-1.1
+			H58.5C58.2,140,57.7,140.2,57.4,140.5z"/>
+		<path class="st2" d="M24,140.7c0-0.4-0.3-0.6-0.6-0.6H13.2c-0.4,0-0.6,0.3-0.6,0.6V168c0,0.6,0.7,0.9,1.1,0.4l0,0
+			c2-2.5,4.5-4.6,7.2-6.2c0.8-0.5,1.6-1,2.5-1.5c0.4-0.2,0.6-0.6,0.6-1.1V140.7z"/>
+	</g>
+</g>
+</svg>
